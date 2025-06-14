@@ -1,0 +1,30 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Remix build
+/build
+/public/build
+/.cache
+
+# Sanity
+studio-e-ecommerce/node_modules/
+studio-e-ecommerce/.sanity/
+studio-e-ecommerce/dist/
+studio-e-ecommerce/.env*
+
+# Env files
+.env*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Logs
+logs
+*.log
